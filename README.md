@@ -14,3 +14,4 @@ CODE
 2. create empty files: 'requirment.txt', 'Makefile', 'main.py', 'mylib/__init__.py','Dockerfile'
 3. Populate: 'Makefile'
 4. [![Python test application whit GIT hub action](https://github.com/drotsen/Python-devops-firstbuild/actions/workflows/devops.yml/badge.svg)](https://github.com/drotsen/Python-devops-firstbuild/actions/workflows/devops.yml)
+5. setup continious integration i.e check code error like lint errors
