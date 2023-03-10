@@ -21,7 +21,7 @@ jobs:
         make lint
     - name: Test with nvtest
       run: |
-        #make test
+        make test
     - name: Format code
       run: |
         #make format
